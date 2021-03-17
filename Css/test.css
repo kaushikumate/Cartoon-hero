@@ -1,0 +1,21 @@
+body{
+	background-color: lightgrey;
+}
+h1{
+font-size: 30px;
+color: teal;
+}
+
+h2{
+color: Yellow;
+font-size: 20px;
+
+
+}
+.big{
+font-size: 60px;
+}
+.uppercase{
+text-transform: uppercase;
+color: navy;
+}
